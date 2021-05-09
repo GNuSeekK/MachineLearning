@@ -1,4 +1,3 @@
-import time
 import sys
 
 def my_pbar(value, endvalue, bar_length = 20):
